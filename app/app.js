@@ -43,7 +43,7 @@ class MyApp {
     }
 
     initializeApp() {
-        
+
     }
 
     openPage(page) {
